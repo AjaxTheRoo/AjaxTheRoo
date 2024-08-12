@@ -1,5 +1,10 @@
-## Hi there 👋
+<div align="center">
+Hi there!
 
+I am currently a programer in traning. I have experience in web design, but I'm wanting to go more into the technical side.<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,figma,blender)](https://skillicons.dev)
+
+My 
 <!--
 **AjaxTheRoo/AjaxTheRoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
